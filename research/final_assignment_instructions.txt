@@ -1,0 +1,112 @@
+​
+
+In recent years, political unrest has risen in a number of countries around the world, as evidenced in measurably increased protests and acts of political violence. For this assignment, you will identify a country that has seen significant protests and/or acts of political violence and explain why using a complexity perspective.
+
+​
+
+Familiarize yourself with these key resources: The World Values Survey (WVS), The Armed Conflict Location & Event Data Project (ACLED) and data from the Global Protest Tracker by the Carnegie Endowment for International Peace. Practice using the online analysis tools for WVS and ACLED, and examine the data from the protest tracker using various filters in the sheet. The World Values Survey is the main database you will use. It documents a wide range of attitudes in various countries and is especially valuable for showing change over time in a variety of attitudes such as confidence in the government and political parties. ACLED offers data on protests, riots and other forms of political unrest. Data from the Carnegie protest tracker lists and describes significant demonstrations around the world since 2017. World Bank Data is also useful to explore for insights on economic conditions in a given country or region. You can also use another reputable dataset besides those mentioned above such as the Arab Barometer. However, it is your responsibility to evaluate the source quality.
+
+​
+
+​
+
+The best place to begin your analysis is with ACLED. Using the site's tools, select event counts and filter for demonstrations. Select a custom date range going back five years. Select a region. Hit run calculations. Explore the results. Use the filters to examine other regions. Identify a country you want to examine more deeply, and explore the data in the Carnegie protest tracker. Filter the data by country. Settle on a country you want to analyze for the assignment, and then head to the World Values Survey. Click Data and Documentation and then Online Analysis from the dropdown. Click on the block 2017-2022 (the most recent survey). Select your country with the online tool and scroll through the questions in the survey, looking for ones that could offer insights into the attitudes, sentiments and perceptions likely driving the political behavior. The idea is to identify correlations (positive or negative) between the WVS and Carnegie data and propose plausible causal explanations. The Carnegie data offers ostensible reasons for protests and demonstrations. Use the WVS data to corroborate the ostensible reasons and create a more nuanced analysis. What attitudes captured in the WVS data are likely driving the protest activity in your country? How have they changed over time? These questions should guide your analysis.
+
+​
+
+It is essential for you to have thorough background knowledge of the country you are examining for political, economic and social context. Your research should include readings explaining the recent political history of the country you are examining, and you should cite these sources as part of your analysis. For instance, if you are examining recent protests in Bolivia, your analysis should draw on scholarly research like the book Evo's Bolivia (Linda C. Farthing, Benjamin H. Kohl. Evo’s Bolivia : Continuity and Change. University of Texas Press; 2014). A strong assignment will generally consult six or more academic sources, which will help you interpret data you analyze. Your analysis should also incorporate news accounts of the demonstration activity, which can help explain what the demonstrators themselves thought and intended.
+
+​
+
+Your work product should include an introduction identifying the country and summing up its recent political history, multiple data visualizations (3 to 6) from the data analysis and succinct written analysis explaining what the data and other evidence suggest as the causes of unrest. Your written analysis should be roughly 1,200 words in total.
+
+​
+
+Use proper citations for all figures drawn from the datasets, and properly cite any readings you draw on as well.
+
+​
+
+Original data visualizations are encouraged though not required. You can use screenshots for data presentations. But especially strong projects will present original visualizations using publically available data.
+
+​
+
+LOs that must be applied:
+
+​
+
+#poliscimethods
+
+#casestudy
+
+#integratingtheories
+
+​
+
+Apply 2 of the following:
+
+#structuralism
+
+#constructivism
+
+#rationalchoice
+
+#institutionalism
+
+​
+
+Apply 3 of the following HCs:
+
+#complexcausality
+
+#emergentproperties
+
+#levelsofanalysis
+
+#networks
+
+#systemdynamics
+
+#systemmapping
+
+​
+
+Lastly, as noted above, be sure to include an appendix that explains your applications of the LOs. Each LO should have its own appendix entry. The appendix does not count toward your word limit.
+
+​
+
+Provide information on the number of words used on the cover page and do not exceed the word limit; failure to follow this guideline will be penalized by a deduction in #professionalism. Also, any HCs and LOs that have been applied beyond the word limit will not be graded.
+
+​
+
+Policy for the use of AI tools at MU as of 3/17/2023
+
+​
+
+At the end of this assignment, you should carefully document anything "notable" you did as part of your process of producing this assignment-whether you did or did not use an AI tool. This should be an average of 1-3 sentences. Note that failing to meet this requirement may be met with grade penalties and you will need to provide the missing section.
+
+​
+
+*Just like the policy for plagiarism where you cannot copy and paste another’s words, ideas, data or code and represent them as your own, it is important that you write the entire assignment yourself but you can use AI tools to "assist" such as you would do with researching information on google for example (as one source of inspiration and material for your assignment).
+
+
+Assignment Information
+Length:
+Aprox. 1,200 words
+Weight:
+10x
+Learning Outcomes Added
+casestudy: Design and interpret case studies. (C) EA
+
+ss112-constructivism: Interpret the causal role of ideas, identity, norms, and repertoires in determining political and social outcomes over time.
+
+ss112-democratization: Identify the specific stage of democratization and explain the causes of liberalization, transition, consolidation, deepening or backsliding.
+
+ss112-institutionalism: Apply the institutionalist theoretical lens by specifying the political causes or consequences of the growth, maintenance, and decay of specific, political institutions
+
+ss112-integratingtheories: Define and utilize theory to explain political behaviors of the past, present and future.
+
+ss112-poliscimethods: Identify, define and utilize political science methodologies in conducting analysis and addressing research topics.
+
+ss112-rationalchoice: Apply rational choice theory to explain individual and collective political decisions.
+
+ss112-structuralism: Identify and analyze structural factors that help explain political and social outcomes over time.
