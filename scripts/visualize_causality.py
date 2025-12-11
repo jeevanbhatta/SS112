@@ -62,13 +62,15 @@ pos = {
 # Draw
 plt.figure(figsize=(14, 9))
 
-# Draw nodes
-# Increased node size slightly to accommodate wrapped text
-node_size = 3800
-nx.draw_networkx_nodes(G, pos, node_size=node_size, node_color='lightblue', edgecolors='black')
-nx.draw_networkx_labels(G, pos, font_size=9, font_weight='bold')
+# Draw nodes using labels with bbox (Rectangles)
+# We won't use draw_networkx_nodes for the visual shape, only for spacing if needed.
+# But we need to pass a node_size to edges so arrows don't get buried.
 
-# Draw edges
+# Calculate a rough node_size for edges based on font size
+# This is a bit of trial and error.
+node_size_for_edges = 5500 
+
+# Draw edges first (so they are behind if they overlap, though we want them to stop at boundary)
 for u, v, d in G.edges(data=True):
     style = 'solid'
     color = 'green' if d['type'] == '+' else 'red'
@@ -92,8 +94,12 @@ for u, v, d in G.edges(data=True):
     nx.draw_networkx_edges(G, pos, edgelist=[(u, v)], edge_color=color, 
                            style=style, width=width, 
                            arrows=True, arrowsize=25, arrowstyle='-|>',
-                           node_size=node_size,
+                           node_size=node_size_for_edges, # This stops the arrow before the center
                            connectionstyle=connection_style)
+
+# Draw labels with bbox (acting as nodes)
+nx.draw_networkx_labels(G, pos, font_size=11, font_weight='bold',
+                        bbox=dict(boxstyle="round,pad=0.5", fc="lightblue", ec="black", lw=1))
 
 # Annotate Loops
 plt.text(0, 0, "Remittance Trap\n(Balancing Loop)", ha='center', fontsize=12, fontweight='bold', color='red', bbox=dict(facecolor='white', alpha=0.8))
